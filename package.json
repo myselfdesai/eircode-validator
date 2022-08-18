@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/myselfdesai/eircode-validator/issues"
   },
-  "homepage": "https://github.com/myselfdesai/eircode-validator#readme"
+  "homepage": "https://github.com/myselfdesai/eircode-validator#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
 }
