@@ -37,7 +37,7 @@ To use eicode-validator in a project
 it gives boolean result true or false
 
 ```
-const validate = require("ideal-eircode").validate
+const validate = require("eircode-validator").validate
 
 validate("D16 W9CE") // true
 validate("d16W9CE)   // true
