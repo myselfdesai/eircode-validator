@@ -1,6 +1,6 @@
 # eircode-validator
 
-[![image](https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png)](npm)
+[![image](https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png)](https://www.npmjs.com/package/eircode-validator)
 
 
 **package to validate Ireland eircode**
